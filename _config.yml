@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "恬静的小魔龙|Unity开发|技术博客"
-description:      "欢迎来到 itMonon恬静的小魔龙「技术博客」侃侃理想、谈谈人生、敲敲代码。"
-url:              https://764424567.github.io # 域名
-signoff:          "764424567" # Your name
+title:            "鹏程技术博客"
+description:      "欢迎来到 鹏程技术博客 侃侃理想、谈谈人生、敲敲代码。"
+url:             https://pengcheng933.github.io/ # 域名
+signoff:          "pengcheng933" # Your name
 facebook_appid:   #764424567
 google_analytics: UA-101222464-1
 share:            true 
