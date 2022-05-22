@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Game_AngryBirds.data.unityweb",
+"asmCodeUrl": "Game_AngryBirds.asm.code.unityweb",
+"asmMemoryUrl": "Game_AngryBirds.asm.memory.unityweb",
+"asmFrameworkUrl": "Game_AngryBirds.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

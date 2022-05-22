@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Game_Tetris.data.unityweb",
+"asmCodeUrl": "Game_Tetris.asm.code.unityweb",
+"asmMemoryUrl": "Game_Tetris.asm.memory.unityweb",
+"asmFrameworkUrl": "Game_Tetris.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

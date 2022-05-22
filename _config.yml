@@ -1,0 +1,44 @@
+# ----------- CONFIGURABLE START -----------
+title:            "恬静的小魔龙|Unity开发|技术博客"
+description:      "欢迎来到 itMonon恬静的小魔龙「技术博客」侃侃理想、谈谈人生、敲敲代码。"
+url:              https://764424567.github.io # 域名
+signoff:          "764424567" # Your name
+facebook_appid:   #764424567
+google_analytics: UA-101222464-1
+share:            true 
+# 分页
+paginate: 15
+paginate_path: "liberxuepage:num"
+gems: [jekyll-paginate]
+links:
+  - name:         首页
+    url:          /
+    external:     false
+  - name:         日常
+    url:          /pages/u3daily
+    external:     false
+  - name:         插件
+    url:          /pages/u3plugin
+    external:     false
+  - name:         游戏
+    url:          /pages/u3game
+    external:     false
+  - name:         演示
+    url:          /pages/u3demo
+    external:     false
+  - name:         归档
+    url:          /pages/archives
+    external:     false
+  - name:         标签
+    url:          /pages/tags
+    external:     false
+  - name:         关于
+    url:          /pages/about
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+#permalink:  /:categories/:title.html
+permalink: /:year/:month/:day/:title.html
+defaults:
+  - values:
+      layout: "default"
